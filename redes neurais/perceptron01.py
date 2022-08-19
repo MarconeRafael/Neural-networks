@@ -21,4 +21,4 @@ def stepfunction(soma):
         return 1
     else:
         return 0
-r = stepfunction(s  )
+r = stepfunction(s  ))
