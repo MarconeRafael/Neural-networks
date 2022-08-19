@@ -8,5 +8,5 @@ EMAIL: marconerafael6@gmail.com
 
 ###
 Contribuições
-*Marcone Rafael
-*Katriel Araujo
+* Marcone Rafael
+* Katriel Araujo
